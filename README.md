@@ -41,7 +41,7 @@ SnapCast is a full-stack web application that enables users to record their scre
 
 ## 🚀 Live Demo
 
-**Coming Soon** - Deploy your own instance or check out the live demo at [snapcast.vercel.app](https://snapcast.vercel.app)
+**Coming Soon** - Deploy your own instance or check out the live demo at [snapcast.vercel.app]([https://snapcast.vercel.app](https://video-blush-nu.vercel.app/))
 
 ## 🛠️ Tech Stack
 
